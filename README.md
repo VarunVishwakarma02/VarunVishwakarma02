@@ -8,14 +8,24 @@
 
 ## 🚀 About Me
 
-I'm a passionate B.Tech CSE (AI/ML) student, specializing in Android development and artificial intelligence. I love creating innovative mobile applications and solving complex algorithmic problems.
-
-- 🔭 I'm currently working on **Android apps with Jetpack Compose and ML integration**
-- 🌱 I'm currently learning **Advanced Android Development & AI/ML implementations**
-- 👯 I'm looking to collaborate on **Android projects and open-source contributions**
-- 💬 Ask me about **Android Development, Java, Kotlin, DSA, and Mobile UI/UX**
-- 📫 How to reach me: **varunvishwakarma.engg@gmail.com**
-- ⚡ Fun fact: **I love building apps that solve real-world problems!**
+<div align="left" style="display: flex; gap: 50px; align-items: flex-start;">
+  <div style="flex: 1;">
+    <p>I'm a passionate B.Tech CSE (AI/ML) student, specializing in Android development and artificial intelligence. I love creating innovative mobile applications and solving complex algorithmic problems.</p>
+    
+    <ul style="list-style: none; padding: 0;">
+      <li>🔭 I'm currently working on <strong>Android apps with Jetpack Compose and ML integration</strong></li>
+      <li>🌱 I'm currently learning <strong>Advanced Android Development & AI/ML implementations</strong></li>
+      <li>👯 I'm looking to collaborate on <strong>Android projects and open-source contributions</strong></li>
+      <li>💬 Ask me about <strong>Android Development, Java, Kotlin, DSA, and Mobile UI/UX</strong></li>
+      <li>📫 How to reach me: <strong>varunvishwakarma.engg@gmail.com</strong></li>
+      <li>⚡ Fun fact: <strong>I love building apps that solve real-world problems!</strong></li>
+    </ul>
+  </div>
+  
+  <div style="flex: 1; min-width: 400px;">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=00D4AA&multiline=true&width=400&height=200&lines=public+class+Developer+%7B;++String+name+%3D+%22Varun%22%3B;++String+role+%3D+%22Android+Developer%22%3B;++;++String%5B%5D+languages+%3D+%7B;++++%22Java%22%2C+%22Kotlin%22%2C;++++%22Python%22%2C+%22C%22;++%7D%3B;++;++public+void+code()+%7B;++++System.out.println(%22Building+apps!%22)%3B;++%7D;%7D" alt="Coding Animation" />
+  </div>
+</div>
 
 ## 🛠️ Tech Stack
 
@@ -30,14 +40,7 @@ I'm a passionate B.Tech CSE (AI/ML) student, specializing in Android development
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 
-### Web Development (MERN Stack)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
 
 ### Libraries & Frameworks
 ![Retrofit](https://img.shields.io/badge/Retrofit-FF6B35?style=for-the-badge&logo=square&logoColor=white)
