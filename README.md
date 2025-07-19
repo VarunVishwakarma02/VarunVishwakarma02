@@ -1,22 +1,21 @@
-
 # Hi there, I'm Varun Vishwakarma 👋
 
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9FFF&center=true&vCenter=true&width=600&lines=Android+Developer+%7C+AI%2FML+Enthusiast;CSE+Student+at+ITS+Engineering+College;500%2B+DSA+Problems+Solved;Building+Innovative+Mobile+Apps)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9FFF&center=true&vCenter=true&width=600&lines=Android+Developer;Building+Innovative+Mobile+Apps)](https://git.io/typing-svg)
 
 </div>
 
 ## 🚀 About Me
 
-I'm a passionate B.Tech CSE (AI/ML) student at ITS Engineering College, specializing in Android development and artificial intelligence. I love creating innovative mobile applications and solving complex algorithmic problems.
+I'm a passionate B.Tech CSE (AI/ML) student, specializing in Android development and artificial intelligence. I love creating innovative mobile applications and solving complex algorithmic problems.
 
 - 🔭 I'm currently working on **Android apps with Jetpack Compose and ML integration**
 - 🌱 I'm currently learning **Advanced Android Development & AI/ML implementations**
 - 👯 I'm looking to collaborate on **Android projects and open-source contributions**
 - 💬 Ask me about **Android Development, Java, Kotlin, DSA, and Mobile UI/UX**
 - 📫 How to reach me: **varunvishwakarma.engg@gmail.com**
-- ⚡ Fun fact: **I've solved 500+ DSA problems and built 3+ production-ready Android apps!**
+- ⚡ Fun fact: **I love building apps that solve real-world problems!**
 
 ## 🛠️ Tech Stack
 
@@ -81,50 +80,6 @@ I'm a passionate B.Tech CSE (AI/ML) student at ITS Engineering College, speciali
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=VarunVishwakarma02&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-## 🔥 Featured Projects
-
-<div align="center">
-  
-  [![SkyForecast](https://github-readme-stats.vercel.app/api/pin/?username=VarunVishwakarma02&repo=SkyForecast&theme=tokyonight&hide_border=true)](https://github.com/VarunVishwakarma02/SkyForecast)
-  [![OCR Scanner](https://github-readme-stats.vercel.app/api/pin/?username=VarunVishwakarma02&repo=OCR-Scanner&theme=tokyonight&hide_border=true)](https://github.com/VarunVishwakarma02/OCR-Scanner)
-
-</div>
-
-### 🌤️ SkyForecast - Android Weather App
-- **Real-time weather data** with responsive UI and dark/light theme support
-- **OpenWeatherMap API integration** with asynchronous calls using Coroutines
-- **MVVM architecture** for clean and testable codebase
-- **Modern Android development** with Jetpack Compose
-
-### 📸 Image Recognition App - OCR Scanner
-- **Image-to-text scanner** with real-time camera preview using ML Kit and CameraX
-- **Built with Jetpack Compose UI** and modular MVVM structure
-- **Google ML Kit integration** for accurate text recognition
-- **Clean architecture** with separation of concerns
-
-## 💼 Experience
-
-**Web Development Intern** @ SoftMind Technologies *(Apr 2025 – Jul 2025)*
-- Worked under MERN Development Lead on React-based projects
-- Gained hands-on experience with full-stack web development
-- Completed capstone project demonstrating proficiency in MERN stack
-
-## 🎓 Education
-
-**B.Tech in Computer Science Engineering (AI/ML)**  
-*ITS Engineering College (2022 - 2026)*
-
-**Core Coursework:** Data Structures & Algorithms, OOP, Operating Systems, DBMS, Computer Networks, Software Engineering
-
-## 🏅 Achievements & Certifications
-
-- ✅ **500+ DSA problems solved** on LeetCode, GeeksforGeeks, and HackerRank
-- ✅ **3+ Android apps built** using Jetpack Compose, Room DB, ML Kit, and MVVM
-- ✅ **Real-world API integrations** including OpenWeatherMap and Google ML Kit
-- 📜 **Android App Development in 34 hours** - Udemy
-- 📜 **Core Java Bootcamp - Zero to Hero** - Udemy
-- 📜 **Git GitHub - Beginner to Advanced** - Udemy
-
 ## 💻 Coding Profiles
 
 <div align="center">
@@ -146,7 +101,7 @@ I'm a passionate B.Tech CSE (AI/ML) student at ITS Engineering College, speciali
 
 </div>
 
-## 💡 Random Dev Quote
+## 💡 Dev Quote
 
 <div align="center">
   
