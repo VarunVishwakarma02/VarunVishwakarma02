@@ -8,23 +8,19 @@
 
 ## 🚀 About Me
 
-<div align="left" style="display: flex; gap: 50px; align-items: flex-start;">
-  <div style="flex: 1;">
-    <p>I'm a passionate B.Tech CSE (AI/ML) student, specializing in Android development and artificial intelligence. I love creating innovative mobile applications and solving complex algorithmic problems.</p>
-    
-    <ul style="list-style: none; padding: 0;">
-      <li>🔭 I'm currently working on <strong>Android apps with Jetpack Compose and ML integration</strong></li>
-      <li>🌱 I'm currently learning <strong>Advanced Android Development & AI/ML implementations</strong></li>
-      <li>👯 I'm looking to collaborate on <strong>Android projects and open-source contributions</strong></li>
-      <li>💬 Ask me about <strong>Android Development, Java, Kotlin, DSA, and Mobile UI/UX</strong></li>
-      <li>📫 How to reach me: <strong>varunvishwakarma.engg@gmail.com</strong></li>
-      <li>⚡ Fun fact: <strong>I love building apps that solve real-world problems!</strong></li>
-    </ul>
-  </div>
+I'm a passionate B.Tech CSE (AI/ML) student, specializing in Android development and artificial intelligence. I love creating innovative mobile applications and solving complex algorithmic problems.
+
+- 🔭 I'm currently working on **Android apps with Jetpack Compose and ML integration**
+- 🌱 I'm currently learning **Advanced Android Development & AI/ML implementations**
+- 👯 I'm looking to collaborate on **Android projects and open-source contributions**
+- 💬 Ask me about **Android Development, Java, Kotlin, DSA, and Mobile UI/UX**
+- 📫 How to reach me: **varunvishwakarma.engg@gmail.com**
+- ⚡ Fun fact: **I love building apps that solve real-world problems!**
+
+<div align="center">
   
-  <div style="flex: 1; min-width: 400px;">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=00D4AA&multiline=true&width=400&height=200&lines=public+class+Developer+%7B;++String+name+%3D+%22Varun%22%3B;++String+role+%3D+%22Android+Developer%22%3B;++;++String%5B%5D+languages+%3D+%7B;++++%22Java%22%2C+%22Kotlin%22%2C;++++%22Python%22%2C+%22C%22;++%7D%3B;++;++public+void+code()+%7B;++++System.out.println(%22Building+apps!%22)%3B;++%7D;%7D" alt="Coding Animation" />
-  </div>
+  ![Coding Animation](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=00D4AA&multiline=true&width=500&height=200&lines=public+class+Developer+%7B;++String+name+%3D+%22Varun%22%3B;++String+role+%3D+%22Android+Developer%22%3B;++;++String%5B%5D+languages+%3D+%7B;++++%22Java%22%2C+%22Kotlin%22%2C;++++%22Python%22%2C+%22C%22;++%7D%3B;++;++public+void+code()+%7B;++++System.out.println(%22Building+apps!%22)%3B;++%7D;%7D)
+
 </div>
 
 ## 🛠️ Tech Stack
